@@ -1,4 +1,4 @@
-# semiclassical_chi
+# semiclassical-chi
 Python code for automating a semi-classical chi calculation through HFSS simulations.  
 This code calculates the chi frequency shift of a qubit in the presence of a coupled readout resonator.  
 The initial code for this was written by Michael Scheer in summer 2015.
